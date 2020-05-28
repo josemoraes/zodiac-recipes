@@ -1,0 +1,17 @@
+{
+  "name": "zodiac-recipes",
+  "displayName": "zodiac-recipes",
+  "expo": {
+    "name": "zodiac-recipes",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
